@@ -1,6 +1,6 @@
 # IndianFoodImageClassification
 Classify indian food images into 12 categories.<br>
-<h3>Abstract <h3> <br>
+###Abstract <br>
   -The Indian cuisine consists of possibly hundreds of varieties of regional and traditional foods, due to which <br>
 food image recognition becomes an essential task. <br>
   -  In this repo we explore a custom-built CNN model and a transfer learning based MobileNetV2 <br>
