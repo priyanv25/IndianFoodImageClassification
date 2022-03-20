@@ -38,9 +38,9 @@ the recognized food image. <br>
   ![image](https://user-images.githubusercontent.com/55789244/159165457-ac77cff7-a13c-46dc-952c-ecd44950e76e.png)
   ![image](https://user-images.githubusercontent.com/55789244/159165469-4e38f07c-eb6e-4100-9ca2-59549311170f.png) <br>
  **TRAINING AND ACCURACY GRAPHS FOR MOBILENETV2 MODEL**
- - ![image](https://user-images.githubusercontent.com/55789244/159165529-6ad9ec80-f5e5-4c2c-9593-58f322b2fd1d.png) <br>
- - ![image](https://user-images.githubusercontent.com/55789244/159165542-c6ce2a62-f0ab-4f70-bbe9-ceeb4284a019.png) <br>
- - **The MobileNetV2 model outperformed the CNN model and achieved an accuracy of 79.44% ** <br>
+  ![image](https://user-images.githubusercontent.com/55789244/159165529-6ad9ec80-f5e5-4c2c-9593-58f322b2fd1d.png) <br>
+  ![image](https://user-images.githubusercontent.com/55789244/159165542-c6ce2a62-f0ab-4f70-bbe9-ceeb4284a019.png) <br>
+ - **The MobileNetV2 model outperformed the CNN model and achieved an accuracy of 79.44%.** <br>
  
  *How To RUN* <br>
   - The UI was developed using Tkinter.
