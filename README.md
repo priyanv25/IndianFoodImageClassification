@@ -11,7 +11,7 @@ the recognized food image. <br>
 ### DATASET
   - The dataset consists of 12 classes of indian food images. 
   - Each class consists of 70-80 images for training and 30 images for validation.
-  - *The dataset is based on the original food20(indian) from kaggle.*
+  - *The dataset is based on the original food20(indian) from kaggle.* <br>
   *The Train and Test folder consists of  the training and test dataset* <br>
   ![image](https://user-images.githubusercontent.com/55789244/159164755-abd10cd4-7aa7-40de-ae90-69cd07b2bda0.png)
 
