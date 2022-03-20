@@ -34,20 +34,20 @@ the recognized food image. <br>
 
 ### RESULTS
  - *A GUI WAS DEVELOPED USING TKINTER* <br>
- - ![image](https://user-images.githubusercontent.com/55789244/159165409-bd167e22-2375-4389-99f8-4213f3b89272.png) <br>
- - ![image](https://user-images.githubusercontent.com/55789244/159165457-ac77cff7-a13c-46dc-952c-ecd44950e76e.png)
- - ![image](https://user-images.githubusercontent.com/55789244/159165469-4e38f07c-eb6e-4100-9ca2-59549311170f.png)
+  ![image](https://user-images.githubusercontent.com/55789244/159165409-bd167e22-2375-4389-99f8-4213f3b89272.png) <br>
+  ![image](https://user-images.githubusercontent.com/55789244/159165457-ac77cff7-a13c-46dc-952c-ecd44950e76e.png)
+  ![image](https://user-images.githubusercontent.com/55789244/159165469-4e38f07c-eb6e-4100-9ca2-59549311170f.png) <br>
  **TRAINING AND ACCURACY GRAPHS FOR MOBILENETV2 MODEL**
  - ![image](https://user-images.githubusercontent.com/55789244/159165529-6ad9ec80-f5e5-4c2c-9593-58f322b2fd1d.png) <br>
  - ![image](https://user-images.githubusercontent.com/55789244/159165542-c6ce2a62-f0ab-4f70-bbe9-ceeb4284a019.png) <br>
- - ** The MobileNetV2 model outperformed the CNN model and achieved an accuracy of 79.44% ** <br>
+ - **The MobileNetV2 model outperformed the CNN model and achieved an accuracy of 79.44% ** <br>
  
  *How To RUN* <br>
   - The UI was developed using Tkinter.
-  - To run the front-end : Run the cnn-ui/ui-edited.py file.
+  - To run the front-end : Run the cnn-ui/ui-edited.py file. <br>
   *Note- The Ui was developed for the custom CNN model. For the Transfer learning model please view the indianfoodclassification.ipynb file*
  
- **PUBLICATION** - For more detailed information : [IndianFoodClassification](https://www.irjet.net/archives/V8/i8/IRJET-V8I8102.pdf).
+ **PUBLICATION** - The research was published at the IRJET Journal. For more detailed information : [IndianFoodClassification](https://www.irjet.net/archives/V8/i8/IRJET-V8I8102.pdf).
 
 
 
